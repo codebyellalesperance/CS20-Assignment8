@@ -5,3 +5,5 @@ on my HTML page and using loops to iterate through the data to get each day and 
 and the most satisfying was finally getting it was after much trial and error trying to find 
 the API key and how to use it in the URL, was getting the full JSON with all the data for a week 
 of meals. 
+
+URL: https://codebyellalesperance.github.io/CS20-Assignment8/
